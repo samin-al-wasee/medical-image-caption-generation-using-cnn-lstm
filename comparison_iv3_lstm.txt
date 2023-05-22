@@ -1,5 +1,5 @@
 Actual: the uterus is normal in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
-Predicted: uterus is gravid containing single gestational sac foetal cardiac pulsation is present placenta posterior in location amniotic fluid adequate intrauterine pregnancy
+Predicted: uterus is gravid containing single gestational sac foetal cardiac pulsation is present placenta anterior in location amniotic fluid adequate intrauterine pregnancy
 --
 Actual: uterus is gravid and retroverted in position a single gestational sac is seen foetal cardiac pulsation is present intrauterine pregnancy
 Predicted: uterus is gravid containing single gestational sac foetal cardiac pulsation is present placenta anterior in location amniotic fluid adequate intrauterine pregnancy
@@ -11,13 +11,13 @@ Actual: the uterus is normal in size it is anteverted in position myometrium sho
 Predicted: uterus is gravid containing single gestational sac foetal cardiac pulsation is present placenta anterior in location amniotic fluid adequate intrauterine pregnancy
 --
 Actual: uterus is gravid containing single gestational sac foetal pole and pulsation is absent placenta anterior in location missed abortion
-Predicted: uterus is gravid containing single gestational sac foetal cardiac pulsation is present placenta anterior in location amniotic fluid adequate intrauterine pregnancy
+Predicted: the uterus is bulky in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
 --
 Actual: uterus is gravid containing single gestational sac foetal pole and pulsation is absent placenta anterior in location missed abortion
-Predicted: the uterus is normal in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
+Predicted: the uterus is bulky in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
 --
 Actual: the uterus is bulky in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
-Predicted: the uterus is normal in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
+Predicted: the uterus is bulky in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
 --
 Actual: the uterus is normal in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty
 Predicted: the uterus is normal in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
@@ -26,58 +26,58 @@ Actual: the uterus is normal in size it is anteverted in position myometrium sho
 Predicted: the uterus is normal in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
 --
 Actual: uterus is atrophied normal for her age
-Predicted: the uterus is normal in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
+Predicted: the uterus is bulky in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
 --
 Actual: uterus is atrophied normal for her age
-Predicted: uterus is gravid containing single gestational sac foetal cardiac pulsation is present placenta anterior in location amniotic fluid adequate intrauterine pregnancy
+Predicted: the uterus is bulky in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
 --
 Actual: the uterus is bulky in size it is anteverted in position two hypoechoic lesions are seen in fundal region and anterior wall of uterus near to cervix endometrial echo is central and thickness is within normal limit endometrial cavity is empty
-Predicted: the uterus is normal in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
+Predicted: the uterus is bulky in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
 --
 Actual: the uterus is bulky in size it is anteverted in position two hypoechoic lesions are seen in fundal region and anterior wall of uterus near to cervix endometrial echo is central and thickness is within normal limit endometrial cavity is empty
-Predicted: the uterus is normal in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
+Predicted: the uterus is bulky in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
 --
 Actual: the uterus is bulky in size it is anteverted in position two hypoechoic lesions are seen in fundal region and anterior wall of uterus near to cervix endometrial echo is central and thickness is within normal limit endometrial cavity is empty
-Predicted: the uterus is normal in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
+Predicted: the uterus is bulky in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
 --
 Actual: the uterus is bulky in size it is anteverted in position two hypoechoic lesions are seen in anterior wall of uterus endometrial echo is central and thickness is within normal limit endometrial cavity is empty cervix is normal
-Predicted: the uterus is normal in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
+Predicted: the uterus is bulky in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
 --
 Actual: the uterus is bulky in size it is anteverted in position two hypoechoic lesions are seen in anterior wall of uterus endometrial echo is central and thickness is within normal limit endometrial cavity is empty cervix is normal
-Predicted: the uterus is normal in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
+Predicted: the uterus is bulky in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
 --
 Actual: the uterus is bulky in size it is anteverted in position two hypoechoic lesions are seen in anterior wall of uterus endometrial echo is central and thickness is within normal limit endometrial cavity is empty cervix is normal
-Predicted: the uterus is normal in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
+Predicted: the uterus is bulky in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
 --
 Actual: the uterus is bulky in size it is anteverted in position two hypoechoic lesions are seen in anterior wall of uterus endometrial echo is central and thickness is within normal limit endometrial cavity is empty cervix is normal
-Predicted: gravid containing single foetus showing regular cardiac pulsation cardiac movement and active foetal movements fetal presentation cephalic at present placenta fundal anterior in location away from the os thickness appear normal maturity grade1 no intra placental or retro placental haemorrhage is identified amniotic fluid adequate
+Predicted: the uterus is bulky in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
 --
 Actual: uterus is gravid containing single gestational sac foetal cardiac pulsation is present 3 mild fluid collection is seen in fundal perisac area extends anterior perisac area placenta anterior in location amniotic fluid adequate intrauterine pregnancy
-Predicted: gravid containing single foetus showing regular cardiac pulsation cardiac movement and active foetal movements fetal presentation cephalic at present placenta fundal anterior in location away from the os thickness appear normal maturity grade1 no intra placental or retro placental haemorrhage is identified amniotic fluid adequate
---
-Actual: uterus is gravid containing single gestational sac foetal cardiac pulsation is present mild fluid collection is seen in fundal perisac area extends anterior perisac area placenta anterior in location amniotic fluid adequate intrauterine pregnancy
 Predicted: uterus is gravid containing single gestational sac foetal cardiac pulsation is present placenta anterior in location amniotic fluid adequate intrauterine pregnancy
 --
 Actual: uterus is gravid containing single gestational sac foetal cardiac pulsation is present mild fluid collection is seen in fundal perisac area extends anterior perisac area placenta anterior in location amniotic fluid adequate intrauterine pregnancy
 Predicted: uterus is gravid containing single gestational sac foetal cardiac pulsation is present placenta anterior in location amniotic fluid adequate intrauterine pregnancy
---
-Actual: uterus is gravid containing single gestational sac foetal cardiac pulsation is present mild fluid collection is seen in fundal perisac area extends anterior perisac area placenta anterior in location amniotic fluid adequate intrauterine pregnancy
-Predicted: gravid containing single foetus showing regular cardiac pulsation cardiac movement and active foetal movements fetal presentation cephalic at present placenta fundal anterior in location away from the os thickness appear normal maturity grade1 no intra placental or retro placental haemorrhage is identified amniotic fluid adequate
 --
 Actual: uterus is gravid containing single gestational sac foetal cardiac pulsation is present mild fluid collection is seen in fundal perisac area extends anterior perisac area placenta anterior in location amniotic fluid adequate intrauterine pregnancy
 Predicted: the uterus is normal in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
+--
+Actual: uterus is gravid containing single gestational sac foetal cardiac pulsation is present mild fluid collection is seen in fundal perisac area extends anterior perisac area placenta anterior in location amniotic fluid adequate intrauterine pregnancy
+Predicted: uterus is gravid containing single gestational sac foetal cardiac pulsation is present placenta anterior in location amniotic fluid adequate intrauterine pregnancy
+--
+Actual: uterus is gravid containing single gestational sac foetal cardiac pulsation is present mild fluid collection is seen in fundal perisac area extends anterior perisac area placenta anterior in location amniotic fluid adequate intrauterine pregnancy
+Predicted: the uterus is bulky in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
 --
 Actual: uterus is atrophied normal for her age
 Predicted: uterus is gravid containing single gestational sac foetal cardiac pulsation is present placenta anterior in location amniotic fluid adequate intrauterine pregnancy
 --
 Actual: uterus is gravid containing single gestational sac foetal cardiac pulsation is present intrauterine pregnancy
-Predicted: uterus is gravid containing single gestational sac foetal cardiac pulsation is present placenta anterior in location amniotic fluid adequate intrauterine pregnancy
+Predicted: the uterus is bulky in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
 --
 Actual: uterus is gravid containing single gestational sac foetal cardiac pulsation is present intrauterine pregnancy
 Predicted: uterus is gravid containing single gestational sac foetal cardiac pulsation is present placenta anterior in location amniotic fluid adequate intrauterine pregnancy
 --
 Actual: uterus is gravid containing single gestational sac foetal cardiac pulsation is present intrauterine pregnancy
-Predicted: the uterus is normal in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
+Predicted: the uterus is bulky in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
 --
 Actual: the uterus is normal in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
 Predicted: the uterus is normal in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
@@ -92,10 +92,10 @@ Actual: the uterus is normal in size it is anteverted in position myometrium sho
 Predicted: the uterus is normal in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
 --
 Actual: the uterus is normal in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
-Predicted: the uterus is normal in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
+Predicted: the uterus is bulky in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
 --
 Actual: the uterus is normal in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty
-Predicted: the uterus is normal in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
+Predicted: the uterus is bulky in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
 --
 Actual: the uterus is normal in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty
 Predicted: the uterus is normal in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
@@ -110,10 +110,10 @@ Actual: uterus is gravid containing single gestational sac foetal pole is seen m
 Predicted: uterus is gravid containing single gestational sac foetal cardiac pulsation is present placenta anterior in location amniotic fluid adequate intrauterine pregnancy
 --
 Actual: uterus is gravid containing single gestational sac foetal pole is seen intrauterine pregnancy
-Predicted: uterus is gravid containing single gestational sac foetal cardiac pulsation is present placenta anterior in location amniotic fluid adequate intrauterine pregnancy
+Predicted: the uterus is bulky in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
 --
 Actual: uterus is gravid containing single gestational sac foetal pole is seen intrauterine pregnancy
-Predicted: the uterus is normal in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
+Predicted: the uterus is bulky in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
 --
 Actual: the uterus is normal in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
 Predicted: gravid containing single foetus showing regular cardiac pulsation cardiac movement and active foetal movements fetal presentation cephalic at present placenta fundal anterior in location away from the os thickness appear normal maturity grade1 no intra placental or retro placental haemorrhage is identified amniotic fluid adequate
@@ -131,16 +131,16 @@ Actual: gravid containing single foetus showing regular cardiac pulsation cardia
 Predicted: gravid containing single foetus showing regular cardiac pulsation cardiac movement and active foetal movements fetal presentation cephalic at present placenta fundal anterior in location away from the os thickness appear normal maturity grade1 no intra placental or retro placental haemorrhage is identified amniotic fluid adequate
 --
 Actual: gravid containing single foetus showing regular cardiac pulsation cardiac movement and active foetal movements fetal presentation cephalic at present placenta fundal anterior in location away from the os thickness appear normal maturity grade1 no intra placental or retro placental haemorrhage is identified amniotic fluid adequate
-Predicted: the uterus is normal in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
+Predicted: the uterus is bulky in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
 --
 Actual: the uterus is bulky in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty
 Predicted: uterus is gravid containing single gestational sac foetal cardiac pulsation is present placenta anterior in location amniotic fluid adequate intrauterine pregnancy
 --
 Actual: uterus is gravid containing single gestational sac foetal cardiac pulsation is present intrauterine pregnancy
-Predicted: uterus is gravid containing single gestational sac foetal cardiac pulsation is present placenta anterior in location amniotic fluid adequate intrauterine pregnancy
+Predicted: the uterus is normal in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
 --
 Actual: uterus is gravid containing single gestational sac foetal cardiac pulsation is present intrauterine pregnancy
-Predicted: uterus is gravid containing single gestational sac foetal cardiac pulsation is present placenta anterior in location amniotic fluid adequate intrauterine pregnancy
+Predicted: the uterus is bulky in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
 --
 Actual: uterus is gravid containing single gestational sac foetal cardiac pulsation is present intrauterine pregnancy
 Predicted: the uterus is normal in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
@@ -158,7 +158,7 @@ Actual: uterus is gravid containing single gestational sac foetal cardiac pulsat
 Predicted: uterus is gravid containing single gestational sac foetal cardiac pulsation is present placenta anterior in location amniotic fluid adequate intrauterine pregnancy
 --
 Actual: uterus is gravid containing single gestational sac foetal cardiac pulsation is present placenta anterior in location amniotic fluid adequate intrauterine pregnancy
-Predicted: uterus is gravid containing single gestational sac foetal cardiac pulsation is present placenta posterior in location amniotic fluid adequate intrauterine pregnancy
+Predicted: uterus is gravid containing single gestational sac foetal cardiac pulsation is present placenta anterior in location amniotic fluid adequate intrauterine pregnancy
 --
 Actual: uterus is gravid containing single gestational sac foetal cardiac pulsation is present placenta anterior in location amniotic fluid adequate intrauterine pregnancy
 Predicted: gravid containing single foetus showing regular cardiac pulsation cardiac movement and active foetal movements fetal presentation cephalic at present placenta fundal anterior in location away from the os thickness appear normal maturity grade1 no intra placental or retro placental haemorrhage is identified amniotic fluid adequate
@@ -167,28 +167,28 @@ Actual: gravid containing single foetus showing regular cardiac pulsation cardia
 Predicted: gravid containing single foetus showing regular cardiac pulsation cardiac movement and active foetal movements fetal presentation cephalic at present placenta fundal anterior in location away from the os thickness appear normal maturity grade1 no intra placental or retro placental haemorrhage is identified amniotic fluid adequate
 --
 Actual: gravid containing single foetus showing regular cardiac pulsation cardiac movement and active foetal movements fetal presentation cephalic at present placenta fundal posterior in location away from the os thickness appear normal maturity grade1 no intra placental or retro placental haemorrhage is identified amniotic fluid adequate
-Predicted: gravid containing single foetus showing regular cardiac pulsation cardiac movement and active foetal movements fetal presentation cephalic at present placenta fundal anterior in location away from the os thickness appear normal maturity grade1 no intra placental or retro placental haemorrhage is identified amniotic fluid adequate
---
-Actual: gravid containing single foetus showing regular cardiac pulsation cardiac movement and active foetal movements fetal presentation cephalic at present placenta fundal posterior in location away from the os thickness appear normal maturity grade1 no intra placental or retro placental haemorrhage is identified amniotic fluid adequate
-Predicted: gravid containing single foetus showing regular cardiac pulsation cardiac movement and active foetal movements fetal presentation cephalic at present placenta fundal anterior in location away from the os thickness appear normal maturity grade1 no intra placental or retro placental haemorrhage is identified amniotic fluid adequate
---
-Actual: gravid containing single foetus showing regular cardiac pulsation cardiac movement and active foetal movements fetal presentation cephalic at present placenta fundal posterior in location away from the os thickness appear normal maturity grade1 no intra placental or retro placental haemorrhage is identified amniotic fluid adequate
-Predicted: gravid containing single foetus showing regular cardiac pulsation cardiac movement and active foetal movements fetal presentation cephalic at present placenta fundal anterior in location away from the os thickness appear normal maturity grade1 no intra placental or retro placental haemorrhage is identified amniotic fluid adequate
---
-Actual: gravid containing single foetus showing regular cardiac pulsation cardiac movement and active foetal movements fetal presentation cephalic at present placenta fundal posterior in location away from the os thickness appear normal maturity grade1 no intra placental or retro placental haemorrhage is identified amniotic fluid adequate
 Predicted: the uterus is normal in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
+--
+Actual: gravid containing single foetus showing regular cardiac pulsation cardiac movement and active foetal movements fetal presentation cephalic at present placenta fundal posterior in location away from the os thickness appear normal maturity grade1 no intra placental or retro placental haemorrhage is identified amniotic fluid adequate
+Predicted: gravid containing single foetus showing regular cardiac pulsation cardiac movement and active foetal movements fetal presentation cephalic at present placenta fundal anterior in location away from the os thickness appear normal maturity grade1 no intra placental or retro placental haemorrhage is identified amniotic fluid adequate
+--
+Actual: gravid containing single foetus showing regular cardiac pulsation cardiac movement and active foetal movements fetal presentation cephalic at present placenta fundal posterior in location away from the os thickness appear normal maturity grade1 no intra placental or retro placental haemorrhage is identified amniotic fluid adequate
+Predicted: the uterus is bulky in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
+--
+Actual: gravid containing single foetus showing regular cardiac pulsation cardiac movement and active foetal movements fetal presentation cephalic at present placenta fundal posterior in location away from the os thickness appear normal maturity grade1 no intra placental or retro placental haemorrhage is identified amniotic fluid adequate
+Predicted: the uterus is bulky in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
 --
 Actual: uterus is atrophied normal for her age
 Predicted: uterus is gravid containing single gestational sac foetal cardiac pulsation is present placenta anterior in location amniotic fluid adequate intrauterine pregnancy
 --
 Actual: uterus is gravid containing single gestational sac foetal cardiac pulsation is present intrauterine pregnancy
-Predicted: uterus is gravid containing single gestational sac foetal cardiac pulsation is present placenta posterior in location amniotic fluid adequate intrauterine pregnancy
+Predicted: uterus is gravid containing single gestational sac foetal cardiac pulsation is present placenta anterior in location amniotic fluid adequate intrauterine pregnancy
 --
 Actual: uterus is gravid containing single gestational sac foetal cardiac pulsation is present intrauterine pregnancy
-Predicted: the uterus is normal in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
+Predicted: the uterus is bulky in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
 --
 Actual: the uterus is normal in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
-Predicted: the uterus is normal in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
+Predicted: the uterus is bulky in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
 --
 Actual: the uterus is normal in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
 Predicted: the uterus is normal in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
@@ -206,10 +206,10 @@ Actual: the uterus is normal in size it is anteverted in position myometrium sho
 Predicted: uterus is atrophied normal for her age
 --
 Actual: the uterus is normal in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
-Predicted: the uterus is normal in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
+Predicted: the uterus is bulky in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
 --
 Actual: the uterus is normal in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
-Predicted: the uterus is normal in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
+Predicted: the uterus is bulky in size it is anteverted in position myometrium shows uniform echotexture endometrial echo is central and thickness is within normal limit no focal lesion is seen endometrial cavity is empty cervix is normal
 --
 Actual: gravid containing single foetus showing regular cardiac pulsation cardiac movement and active foetal movements fetal presentation cephalic at present
 Predicted: uterus is gravid containing single gestational sac foetal cardiac pulsation is present placenta anterior in location amniotic fluid adequate intrauterine pregnancy
@@ -220,3 +220,6 @@ Predicted: uterus is gravid containing single gestational sac foetal cardiac pul
 Actual: gravid containing single foetus showing regular cardiac pulsation cardiac movement and active foetal movements fetal presentation cephalic at present
 Predicted: uterus is gravid containing single gestational sac foetal cardiac pulsation is present placenta anterior in location amniotic fluid adequate intrauterine pregnancy
 --
+Total 2167 Words among those 1529 words from actual captions are also present in the predicted captions having a percentage of 70.55837563451777% and 803 words from predicted captions are not present in the actual captions having a percentage of 37.055837563451774%
+--
+Average Cosine Similarity: 60.386181252294215%
